@@ -1,5 +1,5 @@
 const CONFIG = {
-  hour12  : false
+  hour12  : true
 }
 
 const ICONS = [
