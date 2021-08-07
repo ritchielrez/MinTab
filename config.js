@@ -8,12 +8,12 @@ const ICONS = [
     link: "https://www.youtube.com/"
   },
   {
-    icon: "ri-whatsapp-fill",
-    link: "https://web.whatsapp.com/"
+    icon: "ri-google-fill",
+    link: "https://google.com/"
   },
   {
-    icon: "ri-reddit-fill",
-    link: "https://www.reddit.com/"
+    icon: "ri-facebook-fill",
+    link: "https://www.facebook.com/"
   },
   {
     icon: "ri-github-fill",
@@ -24,11 +24,11 @@ const ICONS = [
 const LIST_ITEMS = [
   {
     name: "music",
-    link: "https://music.youtube.com"
+    link: "https://www.youtube.com/results?search_query=my+mix"
   },
   {
-    name: "netflix",
-    link: "https://www.netflix.com/"
+    name: "classroom",
+    link: "https://www.classroom.google.com/"
   },
   {
     name: "r/unixporn",
